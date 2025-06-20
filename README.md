@@ -41,7 +41,7 @@ My research and applied projects reflect a commitment to using data-driven metho
 - Developed models using ResNet18, DenseNet121, and MobileNet to classify ultrasound images
 - Explored YOLOv5 for object detection on medical datasets
 
-### 🔵 [Suspicious Face Presentation Detection](https://github.com/yourusername/face-spoofing-detection)
+### 🔵 [Suspicious Face Presentation Detection](https://github.com/mgumus86/Suspicious-Presentation-Detection-in-Face-Recognition)
 - Evaluated spoofing attacks using the OULU face attack dataset
 - Applied deep learning and anomaly detection techniques for facial recognition security
 

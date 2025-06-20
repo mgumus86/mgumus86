@@ -45,7 +45,7 @@ My research and applied projects reflect a commitment to using data-driven metho
 - Evaluated spoofing attacks using the OULU face attack dataset
 - Applied deep learning and anomaly detection techniques for facial recognition security
 
-### 🟠 [COVID-19 Vaccine Distribution Optimization](https://github.com/yourusername/vaccine-distribution-ml)
+### 🟠 [COVID-19 Vaccine Distribution Optimization](https://github.com/mgumus86/COVID-19-Vaccine-Distribution-Plan-via-Machine-Learning-Methods)
 - Designed machine learning models for optimal allocation across U.S. regions
 - Used visual analytics to support policy and health outcomes
 

@@ -37,7 +37,7 @@ My research and applied projects reflect a commitment to using data-driven metho
 - Built a pipeline integrating financial news summarization, FinBERT sentiment analysis, and price prediction
 - Combined NLP with historical data to forecast market trends
 
-### 🟣 [Breast Tumor Classification via CNNs](https://github.com/yourusername/breast-cancer-cnn)
+### 🟣 [Breast Tumor Classification via CNNs](https://github.com/mgumus86/Classifying-benign-and-malignant-breast-tumors-via-CNN-)
 - Developed models using ResNet18, DenseNet121, and MobileNet to classify ultrasound images
 - Explored YOLOv5 for object detection on medical datasets
 

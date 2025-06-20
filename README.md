@@ -33,7 +33,7 @@ My research and applied projects reflect a commitment to using data-driven metho
 
 ## 🚀 Featured Projects
 
-### 🟢 [Stock Market Sentiment Analysis using BERT](https://github.com/yourusername/stock-sentiment-bert)
+### 🟢 [Stock Market Sentiment Analysis using BERT](https://github.com/mgumus86/Stock-Market-Sentiment-Analysis-using-BERT)
 - Built a pipeline integrating financial news summarization, FinBERT sentiment analysis, and price prediction
 - Combined NLP with historical data to forecast market trends
 

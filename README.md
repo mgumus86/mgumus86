@@ -8,7 +8,7 @@
 
 ## 🔍 About Me
 
-I'm transitioning from an 8-year academic career as an Assistant Professor specializing in **linear algebra**, **statistics**, and **machine learning**, into a data science role in industry.
+I'm transitioning from an 8-year academic career as an Assistant/Associate Professor specializing in **linear algebra**, **statistics**, and **machine learning**, into a data science role in industry.
 
 With a Ph.D. in Mathematics and an M.S. in Analytics from Georgia Tech, I combine **deep theoretical knowledge** with **hands-on experience** in:
 

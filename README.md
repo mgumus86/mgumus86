@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mehmet Gumus, Ph.D.
 
-🎓 Assistant Professor | 📊 Data Scientist | 🧠 AI/ML Researcher  
+🎓 Associate Professor of Mathematics | 📊 Data Scientist | 🧠 AI/ML Researcher  
 🇺🇸 U.S. Permanent Resident | Based in Reno, NV  
 🔗 [LinkedIn](https://linkedin.com/in/mehmet-gumus) | 📬 tgmmehmet@gmail.com
 
